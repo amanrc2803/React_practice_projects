@@ -3,11 +3,11 @@ Hans on project repo
 
 
 Rendering with JSX Element 
-   return <h1>Hello Avinash !</h1>;
+   return <h1>Hello Avinash !</h1>
    
 
 Dom rendering without using JSX syntax 
-    /return React.createElement("h1", null, "Hello Avinash !") */
+    /* return React.createElement("h1", null, "Hello Avinash !") */
 
 Example of components creation in React 
 
