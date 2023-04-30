@@ -3,7 +3,7 @@ Hans on project repo
 
 
 Rendering with JSX Element 
-   return <h1>Hello Avinash !</h1>
+   /*return <h1>Hello Avinash !</h1> */
    
 
 Dom rendering without using JSX syntax 
